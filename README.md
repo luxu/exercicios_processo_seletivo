@@ -2,4 +2,5 @@
 
 ### :white_check_mark: 1 - **[Rotate an array](https://github.com/luxu/exercicios_processo_seletivo/blob/main/rotate_an_array.py)** 
 ### :white_check_mark: 2 - **[Reverse Words in a String](https://github.com/luxu/exercicios_processo_seletivo/blob/main/reverse_words_in_a_string.py)**
-### :black_square_button: 3 - **[2) Evaluate Reverse Polish Notation (Stack)](https://github.com/luxu/exercicios_processo_seletivo/blob/main/evaluate_reverse_polish_notation.py)**
+### :white_check_mark: 3 - **[Evaluate Reverse Polish Notation (Stack)](https://github.com/luxu/exercicios_processo_seletivo/blob/main/evaluate_reverse_polish_notation.py)**
+### :black_square_button: 4 - **[Isomorphic Strings](https://github.com/luxu/exercicios_processo_seletivo/blob/main/isomorphic_strings.py)**
